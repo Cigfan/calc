@@ -1,7 +1,5 @@
 import math
 
-import sys
-
 def minimalNumber(x):
     x = round(x, 3)
     if type(x) is str:
